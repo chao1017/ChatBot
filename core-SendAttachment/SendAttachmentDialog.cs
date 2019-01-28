@@ -84,16 +84,55 @@
         private static Attachment GetInlineAttachment()
         {
             //9.1
+            var imagePath = HttpContext.Current.Server.MapPath("~/images/small-image.png");
+
+            var imageData = Convert.ToBase64String(File.ReadAllBytes(imagePath));
+
+            return new Attachment
+            {
+                Name = "small-image.png",
+                ContentType = "image/png",
+                ContentUrl = $"data:image/png;base64,{imageData}"
+            };
         }
 
         private static async Task<Attachment> GetUploadedAttachmentAsync(string serviceUrl, string conversationId)
         {
             //9.2
+            var imagePath = HttpContext.Current.Server.MapPath("~/images/big-image.png");
+
+            using (var connector = new ConnectorClient(new Uri(serviceUrl)))
+            {
+                var attachments = new Attachments(connector);
+                var response = await attachments.Client.Conversations.UploadAttachmentAsync(
+                    conversationId,
+                    new AttachmentData
+                    {
+                        Name = "big-image.png",
+                        OriginalBase64 = File.ReadAllBytes(imagePath),
+                        Type = "image/png"
+                    });
+
+                var attachmentUri = attachments.GetAttachmentUri(response.Id);
+
+                return new Attachment
+                {
+                    Name = "big-image.png",
+                    ContentType = "image/png",
+                    ContentUrl = attachmentUri
+                };
+            }
         }
 
         private static Attachment GetInternetAttachment()
         {
             //9.3
+            return new Attachment
+            {
+                Name = "BotFrameworkOverview.png",
+                ContentType = "image/png",
+                ContentUrl = "https://docs.microsoft.com/en-us/bot-framework/media/how-it-works/architecture-resize.png"
+            };
         }
     }
 }
