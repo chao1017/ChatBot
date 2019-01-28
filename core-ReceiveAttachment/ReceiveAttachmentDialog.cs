@@ -27,6 +27,19 @@
                 using (HttpClient httpClient = new HttpClient())
                 {
                     //8.1
+                    // Skype & MS Teams attachment URLs are secured by a JwtToken, so we need to pass the token from our bot.
+                    if ((message.ChannelId.Equals("skype", StringComparison.InvariantCultureIgnoreCase) || message.ChannelId.Equals("msteams", StringComparison.InvariantCultureIgnoreCase))
+                        && new Uri(attachment.ContentUrl).Host.EndsWith("skype.com"))
+                    {
+                        var token = await new MicrosoftAppCredentials().GetTokenAsync();
+                        httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
+                    }
+
+                    var responseMessage = await httpClient.GetAsync(attachment.ContentUrl);
+
+                    var contentLenghtBytes = responseMessage.Content.Headers.ContentLength;
+
+                    await context.PostAsync($"Attachment of {attachment.ContentType} type and size of {contentLenghtBytes} bytes received.");
                 }
             }
             else
