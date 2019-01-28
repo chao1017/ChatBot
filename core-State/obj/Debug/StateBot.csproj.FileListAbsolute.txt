@@ -1,0 +1,224 @@
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\StateBot.dll.config
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\StateBot.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\StateBot.pdb
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Autofac.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Chronic.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\EntityFramework.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\EntityFramework.SqlServer.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.Azure.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.History.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Connector.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.Edm.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.OData.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.Services.Client.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Newtonsoft.Json.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Net.Http.Formatting.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Spatial.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Web.Http.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Web.Http.WebHost.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Autofac.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\EntityFramework.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\EntityFramework.SqlServer.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.Azure.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Builder.History.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Bot.Connector.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.Edm.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.OData.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.Data.Services.Client.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\Newtonsoft.Json.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Net.Http.Formatting.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Spatial.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Web.Http.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\System.Web.Http.WebHost.xml
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\de\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\es\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\fr\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\it\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ja\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ko\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\ru\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\obj\Debug\StateBot.csprojAssemblyReference.cache
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\obj\Debug\StateBot.csproj.CoreCompileInputs.cache
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\obj\Debug\StateBot.csproj.CopyComplete
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\obj\Debug\StateBot.dll
+C:\Users\ethuang\Desktop\20190124 Chatbot Workshop\core-State\obj\Debug\StateBot.pdb
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\GitHub\ChatBot\core-State\bin\DocumentDB.Spatial.Sql.dll
+D:\GitHub\ChatBot\core-State\bin\StateBot.dll.config
+D:\GitHub\ChatBot\core-State\bin\StateBot.dll
+D:\GitHub\ChatBot\core-State\bin\StateBot.pdb
+D:\GitHub\ChatBot\core-State\bin\Autofac.dll
+D:\GitHub\ChatBot\core-State\bin\Chronic.dll
+D:\GitHub\ChatBot\core-State\bin\EntityFramework.dll
+D:\GitHub\ChatBot\core-State\bin\EntityFramework.SqlServer.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Azure.Documents.Client.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Azure.KeyVault.Core.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.Azure.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.History.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Connector.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.Edm.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.OData.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.Services.Client.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Rest.ClientRuntime.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\GitHub\ChatBot\core-State\bin\Microsoft.WindowsAzure.Storage.dll
+D:\GitHub\ChatBot\core-State\bin\Newtonsoft.Json.dll
+D:\GitHub\ChatBot\core-State\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\ChatBot\core-State\bin\System.Net.Http.Formatting.dll
+D:\GitHub\ChatBot\core-State\bin\System.Spatial.dll
+D:\GitHub\ChatBot\core-State\bin\System.Web.Http.dll
+D:\GitHub\ChatBot\core-State\bin\System.Web.Http.WebHost.dll
+D:\GitHub\ChatBot\core-State\bin\Autofac.xml
+D:\GitHub\ChatBot\core-State\bin\EntityFramework.xml
+D:\GitHub\ChatBot\core-State\bin\EntityFramework.SqlServer.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Azure.Documents.Client.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Azure.KeyVault.Core.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.Azure.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Builder.History.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Bot.Connector.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.Edm.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.OData.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.Data.Services.Client.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Logging.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocols.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.IdentityModel.Tokens.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\GitHub\ChatBot\core-State\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\GitHub\ChatBot\core-State\bin\Microsoft.WindowsAzure.Storage.xml
+D:\GitHub\ChatBot\core-State\bin\Newtonsoft.Json.xml
+D:\GitHub\ChatBot\core-State\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\GitHub\ChatBot\core-State\bin\System.Net.Http.Formatting.xml
+D:\GitHub\ChatBot\core-State\bin\System.Spatial.xml
+D:\GitHub\ChatBot\core-State\bin\System.Web.Http.xml
+D:\GitHub\ChatBot\core-State\bin\System.Web.Http.WebHost.xml
+D:\GitHub\ChatBot\core-State\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\GitHub\ChatBot\core-State\bin\de\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\es\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\it\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\GitHub\ChatBot\core-State\bin\de\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\es\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fr\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\it\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ja\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ko\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ru\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\GitHub\ChatBot\core-State\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\GitHub\ChatBot\core-State\bin\de\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\es\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\fr\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\it\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ja\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ko\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\ru\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hans\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\bin\zh-Hant\System.Spatial.resources.dll
+D:\GitHub\ChatBot\core-State\obj\Debug\StateBot.csprojResolveAssemblyReference.cache
+D:\GitHub\ChatBot\core-State\obj\Debug\StateBot.dll
+D:\GitHub\ChatBot\core-State\obj\Debug\StateBot.pdb
